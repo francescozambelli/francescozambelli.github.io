@@ -20,8 +20,6 @@ links:
   - icon: "brands/github"
     url: "https://github.com/francescozambelli"
     label: "GitHub"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/alexjohnson/"
   - icon: "brands/bluesky"
     url: "https://bsky.app/profile/frazambelli.bsky.social"
     label: "Bluesky"
@@ -45,7 +43,8 @@ experience:
     org: "University of Padova"
     start: "2023-09-30"
     end: ""
-    summary: "I currently am a member of the CoMuNe Lab, led by Prof. Manlio De Domenico, which studies complex networks and complex systems across a wide range of applications. My research focuses on biological networks, particularly gene regulatory networks and the inference methods used to
+    summary:
+      "I currently am a member of the CoMuNe Lab, led by Prof. Manlio De Domenico, which studies complex networks and complex systems across a wide range of applications. My research focuses on biological networks, particularly gene regulatory networks and the inference methods used to
 
       construct networks from experimental data."
 skills:

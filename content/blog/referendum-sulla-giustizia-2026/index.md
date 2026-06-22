@@ -4,21 +4,6 @@ summary: Quello che so di aver sentito e penso di aver capito sul referendum sul
 date: 2026-03-01
 image:
   caption: Credit or context (Markdown supported)
-cover:
-  image: https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: gradient
-    opacity: 0.4
-    gradient: bottom
-  fade:
-    enabled: true
-    height: 80px
-  icon:
-    name: ✨
 authors:
   - me
 tags:
@@ -26,7 +11,7 @@ tags:
   - Italy
 content_meta:
   trending: false
-status: published
+status: draft
 ---
 <!-- Tip: open with the why, then show results, code, and next steps. -->
 

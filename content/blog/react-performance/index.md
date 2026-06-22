@@ -10,7 +10,6 @@ tags:
   - Optimization
 authors:
   - me
-featured: true
 ---
 
 React apps can become slow as they grow. This guide covers practical techniques to identify bottlenecks and optimize performance, backed by real-world examples.
