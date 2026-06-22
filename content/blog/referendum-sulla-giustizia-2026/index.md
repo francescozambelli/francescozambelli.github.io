@@ -1,6 +1,7 @@
 ---
 title: Referendum sulla Giustizia 2026
-summary: Quello che so di aver sentito e penso di aver capito sul referendum sulla giustizia
+summary: Quello che so di aver sentito e penso di aver capito sul referendum
+  sulla giustizia
 date: 2026-03-01
 image:
   caption: Credit or context (Markdown supported)
@@ -11,7 +12,8 @@ tags:
   - Italy
 content_meta:
   trending: false
-status: draft
+draft: true
+
 ---
 <!-- Tip: open with the why, then show results, code, and next steps. -->
 
