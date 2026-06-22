@@ -11,7 +11,7 @@ status:
   icon: "🚀"
 role: "PhD student"
 email: "alex@example.com"
-bio: "H i, I'm Francesco, I'm a PhD student in the Physics department in University of Padova (IT). I'm working on complex systems, in particular complex networks in biology."
+bio: "Hi, I'm Francesco, I'm a PhD student in the Physics department in University of Padova (IT). I'm working on complex systems, in particular complex networks in biology."
 affiliations: []
 links:
   - icon: "hero/at-symbol"
@@ -36,7 +36,7 @@ education:
     end: "2020-09-30"
     summary: "Thesis on ecological dynamics in consumer resourcers models"
   - degree: "Master Degree"
-    institution: "Univesrity of Padova"
+    institution: "University of Padova"
     start: "2020-09-30"
     end: "2023-09-30"
     summary: "Master thesis on multilayer network apporach for oncogenicity target identification in virus-human interaction"
